@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Badges</string>
+    <string name="notification_badge_android">Notification Badge Android</string>
+    <string name="_1030">1030</string>
+    <string name="_11">11</string>
+    <string name="_27">27</string>
+    <string name="_55">55</string>
+</resources>
